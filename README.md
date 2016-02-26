@@ -1,4 +1,4 @@
-# Phhplimbe / styleguide
+# Phplimbe / styleguide
  
 ## Color
 * Red: #e30513
